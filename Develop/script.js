@@ -14,7 +14,7 @@ function generatePassword() {
   length = parseInt(length);
 
   // Check if the input is a valid number and between 8 &
-  if (length < 10 || length > 128) {
+  if (length < 8 || length > 128) {
     alert("Please enter a valid number between 8 and 128.");
     return '';
   }
