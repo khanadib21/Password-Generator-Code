@@ -14,7 +14,7 @@ The task for module 3 challenge was to to create an application that an employee
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
 [Developer Website Link](https://khanadib21.github.io/challenge2/)
-![Developer Portfolio Website](./assets/images/webpagescreenshot.jpg)
+![Developer Portfolio Website](./Screenshot%202023-05-18%20133341.jpg)
 ## Credits
 NOTE: Click preview pictures to navigate to the referenced site
 ### Git Cheat Sheet (pdf)
